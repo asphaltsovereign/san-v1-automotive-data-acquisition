@@ -1,0 +1,13 @@
+test_empty_file_rejected (test_csv_validator.StructuralCsvChecks.test_empty_file_rejected) ... ok
+test_mixed_device_rejected (test_csv_validator.StructuralCsvChecks.test_mixed_device_rejected) ... ok
+test_mixed_session_rejected (test_csv_validator.StructuralCsvChecks.test_mixed_session_rejected) ... ok
+test_reversed_uptime_rejected (test_csv_validator.StructuralCsvChecks.test_reversed_uptime_rejected) ... ok
+test_sequence_gap_rejected (test_csv_validator.StructuralCsvChecks.test_sequence_gap_rejected) ... ok
+test_synthetic_reference_is_ten_hz (test_csv_validator.StructuralCsvChecks.test_synthetic_reference_is_ten_hz) ... ok
+test_wrong_sampling_rate_rejected (test_csv_validator.StructuralCsvChecks.test_wrong_sampling_rate_rejected) ... ok
+test_wrong_schema_rejected (test_csv_validator.StructuralCsvChecks.test_wrong_schema_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.007s
+
+OK
