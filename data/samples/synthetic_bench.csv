@@ -1,0 +1,12 @@
+schema_version,device_id,session_id,sample_seq,timestamp_utc,uptime_ms,state,rpm,voltage_v,probe_temp_c,latitude_deg,longitude_deg,gps_speed_kph,gps_fix,satellites,hdop,health_flags
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,0,,0,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,1,,100,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,2,,200,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,3,,300,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,4,,400,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,5,,500,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,6,,600,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,7,,700,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,8,,800,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,9,,900,BENCH,6000,1.65,25.0,,,,0,0,,8
+san_csv_1.0,DEMO_BENCH_01,SYNTHETIC_01,10,,1000,BENCH,6000,1.65,25.0,,,,0,0,,8
